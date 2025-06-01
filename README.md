@@ -7,9 +7,9 @@
 
 ### Team Members
 
-- [Emi-Pemi](https://github.com/Emi-Pemi)
-- [SaraAkbar16](https://github.com/SaraAkbar16)
-- [NNoorFatima](https://github.com/NNoorFatima)
+- **Emaan Ali** [Emi-Pemi](https://github.com/Emi-Pemi)
+- **Sara Akbar**[SaraAkbar16](https://github.com/SaraAkbar16)
+- **Noor Fatima**[NNoorFatima](https://github.com/NNoorFatima)
 
 
 ---
