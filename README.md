@@ -1,4 +1,3 @@
-# FINAL DELIVERABLE
 
 ## AI2002 – Artificial Intelligence
 
@@ -8,9 +7,9 @@
 
 ### Team Members
 
-- **Sara Akbar** 
-- **Noor Fatima**  
-- **Emaan Ali** 
+- [Emi-Pemi](https://github.com/Emi-Pemi)
+- [SaraAkbar16](https://github.com/SaraAkbar16)
+- [NNoorFatima](https://github.com/NNoorFatima)
 
 
 ---
